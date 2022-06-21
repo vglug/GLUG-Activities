@@ -1,0 +1,1 @@
+- This folder contains VGLUG events & activity posters
