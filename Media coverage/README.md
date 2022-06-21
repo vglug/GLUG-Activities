@@ -1,0 +1,1 @@
+- This folder contains VGLUG activity media coverage 
